@@ -1,5 +1,9 @@
 {
-    "_id": "1",
-    "_name": "Pop",
-    "_surname": "Cristian"
+    "_user": {
+        "_id": "1",
+        "_name": "Pop",
+        "_surname": "Cristian"
+    }
+    "_email": "popcristian15@gmail.com"
+    "_phoneNo": "0758026551"
 }
